@@ -18,20 +18,20 @@ class Config(object):
     PORT = os.environ.get("PORT", "8980")
 
     # database config
-    DB_NAME = os.environ.get("DB_NAME", "RexBots")     
+    DB_NAME = os.environ.get("DB_NAME", "")     
     DB_URL  = os.environ.get("DB_URL", "")
  
     # other configs
-    ADMIN_URL = "https://t.me/adityaabhinav"
-    DUMP_CHANNEL = os.environ.get("DUMP_CHANNEL", "-1002257657458")
+    ADMIN_URL = "https://t.me/oo7jatji"
+    DUMP_CHANNEL = os.environ.get("DUMP_CHANNEL", "")
     DUMP = True
     BOT_UPTIME  = time.time()
-    START_PIC   = os.environ.get("START_PIC", "https://ibb.co/Cs0zsrCn")
-    LEADERBOARD_PIC = os.environ.get("LEADERBOARD_PIC", "https://ibb.co/RGx4RmDg")
-    OWNER_ID = int(os.environ.get("OWNER_ID", "6701907262"))
-    SUPPORT_CHAT = int(os.environ.get("SUPPORT_CHAT", "-1002871570975"))
+    START_PIC   = os.environ.get("START_PIC", "https://files.catbox.moe/emkpok.jpg")
+    LEADERBOARD_PIC = os.environ.get("LEADERBOARD_PIC", "https://ibb.co/KcRgnHwQ")
+    OWNER_ID = int(os.environ.get("OWNER_ID", ""))
+    SUPPORT_CHAT = int(os.environ.get("SUPPORT_CHAT", ""))
     LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
-    FSUB_PIC = os.environ.get("FSUB_PIC", "")
+    FSUB_PIC = os.environ.get("FSUB_PIC", "https://ibb.co/KcRgnHwQ")
     BOT_USERNAME = os.environ.get("BOT_USERNAME", "")
     LEADERBOARD_DELETE_TIMER = 30
     # wes response configuration     
@@ -48,16 +48,16 @@ class Config(object):
 ➲ ᴇᴘɪꜱᴏᴅᴇ - ᴛᴏ ʀᴇᴘʟᴀᴄᴇ ᴇᴘɪꜱᴏᴅᴇ ɴᴜᴍʙᴇʀ
 ➲ ǫᴜᴀʟɪᴛʏ - ᴛᴏ ʀᴇᴘʟᴀᴄᴇ ǫᴜᴀʟɪᴛʏ
 
-<b>‣ ꜰᴏʀ ᴇx:- </b> <code> /autorename Your Anime Name Here [SSeason] [EPEpisode] [Quality] [Audio] @Seishiro_atanime </code>
+<b>‣ ꜰᴏʀ ᴇx:- </b> <code> /autorename Your Anime Name Here [SSeason] [EPEpisode] [Quality] [Audio] @Warrior_Units </code>
 
 <b>‣ /Autorename: ʀᴇɴᴀᴍᴇ ʏᴏᴜʀ ᴍᴇᴅɪᴀ ꜰɪʟᴇꜱ ʙʏ ɪɴᴄʟᴜᴅɪɴɢ 'ᴇᴘɪꜱᴏᴅᴇ' ᴀɴᴅ 'ǫᴜᴀʟɪᴛʏ' ᴠᴀʀɪᴀʙʟᴇꜱ ɪɴ ʏᴏᴜʀ ᴛᴇxᴛ, ᴛᴏ ᴇxᴛʀᴀᴄᴛ ᴇᴘɪꜱᴏᴅᴇ ᴀɴᴅ ǫᴜᴀʟɪᴛʏ ᴘʀᴇꜱᴇɴᴛ ɪɴ ᴛʜᴇ ᴏʀɪɢɪɴᴀʟ ꜰɪʟᴇɴᴀᴍᴇ. """
     
     ABOUT_TXT = f"""<b><blockquote expandable>❍ <u>ᴍʏ ɴᴀᴍᴇ</u> : <b><i>ᴀᴜᴛᴏ ʀᴇɴᴀᴍᴇ</i></b>
-❍ ᴅᴇᴠᴇʟᴏᴩᴇʀ : <a href="https://t.me/cantarellabots">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+❍ ᴏᴡɴᴇʀ : <a href="https://t.me/cantarellabots">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 ❍ ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 ❍ ᴅᴀᴛᴀʙᴀꜱᴇ : <a href="https://www.mongodb.com/">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-❍ ʜᴏꜱᴛᴇᴅ ᴏɴ : <a href="https://t.me/cantarellabots">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-❍ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/cantarellabots">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+❍ 🇺​​🇵​​🇩​​🇦​​🇹​​🇪​​🇸​ ​🇨​​🇭​​🇦​​🇳​​🇳​​🇪​​🇱​ : <a href="https://t.me/WarriorUnitsBots">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+❍ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/Warrior_Units">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
 ➻ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ғᴏʀ ɢᴇᴛᴛɪɴɢ ʙᴀsɪᴄ ʜᴇʟᴩ ᴀɴᴅ ɪɴғᴏ ᴀʙᴏᴜᴛ ᴍᴇ.</blockquote></b>"""
 
@@ -98,10 +98,10 @@ class Config(object):
 
  <u>ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴅᴏɴᴀᴛᴇ ᴛʜʀᴏᴜɢʜ ᴜᴘɪ</u>
 
- ᴜᴘɪ ɪᴅ : 404.....
+ ᴜᴘɪ ɪᴅ : 007jatji@ybl
 
 ɪғ ʏᴏᴜ ᴡɪsʜ ʏᴏᴜ ᴄᴀɴ sᴇɴᴅ ᴜs ss
-ᴏɴ - 404...."""
+ᴏɴ - @oo7jatji"""
 
     
     HELP_TXT = """<b>ʜᴇʀᴇ ɪꜱ ʜᴇʟᴘ ᴍᴇɴᴜ ɪᴍᴘᴏʀᴛᴀɴᴛ ᴄᴏᴍᴍᴀɴᴅꜱ:
