@@ -53,7 +53,7 @@ class Config(object):
 <b>‣ /Autorename: ʀᴇɴᴀᴍᴇ ʏᴏᴜʀ ᴍᴇᴅɪᴀ ꜰɪʟᴇꜱ ʙʏ ɪɴᴄʟᴜᴅɪɴɢ 'ᴇᴘɪꜱᴏᴅᴇ' ᴀɴᴅ 'ǫᴜᴀʟɪᴛʏ' ᴠᴀʀɪᴀʙʟᴇꜱ ɪɴ ʏᴏᴜʀ ᴛᴇxᴛ, ᴛᴏ ᴇxᴛʀᴀᴄᴛ ᴇᴘɪꜱᴏᴅᴇ ᴀɴᴅ ǫᴜᴀʟɪᴛʏ ᴘʀᴇꜱᴇɴᴛ ɪɴ ᴛʜᴇ ᴏʀɪɢɪɴᴀʟ ꜰɪʟᴇɴᴀᴍᴇ. """
     
     ABOUT_TXT = f"""<b><blockquote expandable>❍ <u>ᴍʏ ɴᴀᴍᴇ</u> : <b><i>ᴀᴜᴛᴏ ʀᴇɴᴀᴍᴇ</i></b>
-❍ ᴏᴡɴᴇʀ : <a href="https://t.me/cantarellabots">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+❍ ᴏᴡɴᴇʀ : <a href="https://t.me/oo7jatji">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 ❍ ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 ❍ ᴅᴀᴛᴀʙᴀꜱᴇ : <a href="https://www.mongodb.com/">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 ❍ 🇺​​🇵​​🇩​​🇦​​🇹​​🇪​​🇸​ ​🇨​​🇭​​🇦​​🇳​​🇳​​🇪​​🇱​ : <a href="https://t.me/WarriorUnitsBots">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
